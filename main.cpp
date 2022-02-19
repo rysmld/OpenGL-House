@@ -34,7 +34,8 @@ void display(){
 		lines1();
 		lines2();
 		lines3();
-		
+		//hello
+	
 	glEnd(); 
   	glFlush();
 }
